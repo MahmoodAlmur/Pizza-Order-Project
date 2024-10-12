@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\14 - C# - Level 1\Pizza 🍕 Poject\bin\Debug\Pizza 🍕 Poject.exe.config
+C:\Users\User\source\repos\14 - C# - Level 1\Pizza 🍕 Poject\bin\Debug\Pizza 🍕 Poject.exe
+C:\Users\User\source\repos\14 - C# - Level 1\Pizza 🍕 Poject\bin\Debug\Pizza 🍕 Poject.pdb
+C:\Users\User\source\repos\14 - C# - Level 1\Pizza 🍕 Poject\obj\Debug\Pizza 🍕 Poject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\14 - C# - Level 1\Pizza 🍕 Poject\obj\Debug\Pizza____Poject.Properties.Resources.resources
+C:\Users\User\source\repos\14 - C# - Level 1\Pizza 🍕 Poject\obj\Debug\Pizza 🍕 Poject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\14 - C# - Level 1\Pizza 🍕 Poject\obj\Debug\Pizza 🍕 Poject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\14 - C# - Level 1\Pizza 🍕 Poject\obj\Debug\Pizza 🍕 Poject.exe
+C:\Users\User\source\repos\14 - C# - Level 1\Pizza 🍕 Poject\obj\Debug\Pizza 🍕 Poject.pdb
+C:\Users\User\source\repos\14 - C# - Level 1\Pizza 🍕 Poject\obj\Debug\Pizza____Poject.frmPizzaOrder.resources
